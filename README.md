@@ -5,6 +5,8 @@
 * Department of Economics - Universidad de San Andrés
 * Period: 2023
 
+The final Jupyter Notebook is in the folder **codes** and the written report is in **documents**
+
 For additional information, please send a mail to rcondoriturrizaga@udesa.edu.ar. Suggestions are welcome.
 <br />
 
